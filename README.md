@@ -12,6 +12,7 @@ No.	Jenis-jenis perbedaan	Functional Programming	Object Oriented Programming
 Dalam kesimpulan, perbedaan mendasar antara Functional Programming dan Object-oriented Programming adalah pada cara mereka memproses dan menyimpan data. FP menekankan pada keimmutabilan dan fungsi yang murni, sementara OOP menekankan pada penggunaan objek dan hubungan antar objek. Kedua paradigma pemrograman ini memiliki kelebihan dan kekurangan masing-masing tergantung pada kebutuhan dari sistem yang dibangun.
 
 2. Berikan apa saja contoh pengimplementasian dari oop
+Jawab :
 1.	Pembuatan aplikasi desktop atau mobile: OOP digunakan dalam pembuatan aplikasi desktop atau mobile yang kompleks, seperti Microsoft Office atau Adobe Photoshop.
 2.	Pembuatan game: OOP sangat populer dalam pembuatan game karena memungkinkan pengembang untuk membuat game dengan lebih mudah dan efisien.
 3.	Pembuatan website dan aplikasi web: Banyak bahasa pemrograman yang digunakan dalam pengembangan web, seperti Java, Python, PHP, dan Ruby, semuanya mendukung OOP.
